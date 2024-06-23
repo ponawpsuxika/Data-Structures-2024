@@ -1,0 +1,33 @@
+2005,Births,Northland region,2067
+2005,Births,Auckland region,20745
+2005,Births,Waikato region,5667
+2005,Births,Bay of Plenty region,3771
+2005,Births,Gisborne region,777
+2005,Births,Hawke's Bay region,2115
+2005,Births,Taranaki region,1410
+2005,Births,Manawatu-Wanganui region,3093
+2005,Births,Wellington region,6225
+2005,Births,Tasman region,513
+2005,Births,Nelson region,519
+2005,Births,Marlborough region,471
+2005,Births,West Coast region,336
+2005,Births,Canterbury region,6603
+2005,Births,Otago region,2151
+2005,Births,Southland region,1212
+2005,Births,"Region not stated or area outside region",57
+2005,Births,New Zealand,57747
+2005,Deaths,Northland region,1167
+2005,Deaths,Auckland region,6873
+2005,Deaths,Waikato region,2520
+2005,Deaths,Bay of Plenty region,1956
+2005,Deaths,Gisborne region,375
+2005,Deaths,Hawke's Bay region,1278
+2005,Deaths,Taranaki region,909
+2005,Deaths,Manawatu-Wanganui region,1836
+2005,Deaths,Wellington region,2745
+2005,Deaths,Tasman region,315
+2005,Deaths,Nelson region,345
+2005,Deaths,Marlborough region,372
+2005,Deaths,West Coast region,243
+2005,Deaths,Canterbury region,3816
+2005,Deaths,Otago region,142
